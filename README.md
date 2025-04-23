@@ -2,18 +2,7 @@ Expense  Tracker
 
 Link : expense-tracker-inky-phi.vercel.app
 
-✅ A sleek, dark-themed expense tracker built with React that lets users:
-
-✅ Add, view, and delete expenses
-
-✅ Categorize expenses (Food, Transport, Bills, etc.)
-
-✅ See total spending in real-time
-
-✅ Visualize spending data with charts
-
-✅ Persist data using LocalStorage
-
+Expense Tracker is a simple yet powerful React application designed to help you keep track of your daily spending. Whether you're budgeting for the week or analyzing your monthly expenses, this tool provides an easy way.
 
 🚀 Features
 ✅ Add expenses with description, amount, and category
