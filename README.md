@@ -1,6 +1,6 @@
 Expense  Tracker
 
-Link : https://xpense-tracker-inky-phi.vercel.app/
+Link : https://expense-tracker-inky-phi.vercel.app/
 
 Expense Tracker is a simple yet powerful React application designed to help you keep track of your daily spending. Whether you're budgeting for the week or analyzing your monthly expenses, this tool provides an easy way.
 
