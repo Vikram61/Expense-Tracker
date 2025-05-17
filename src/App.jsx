@@ -39,7 +39,7 @@ function App() {
       <Header />
       <ExpenseForm onAdd={addExpense} />
       <ExpenseList expenses={expenses} onDelete={deleteExpense} />
-      <h3 className="total-display">Total Spent: ${total.toFixed(2)}</h3>
+      <h3 className="total-display">Total Spent: Rs {total.toFixed(2)}/-</h3>
       {expenses.length > 0 && <ExpenseChart expenses={expenses} />}
     </div>
   );
